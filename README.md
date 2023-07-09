@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# Oh hi 👋
+## Oh hi 👋
 
 ```yaml
 apiVersion: v45
