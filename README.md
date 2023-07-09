@@ -1,5 +1,29 @@
 ### Hi there 👋
 
+# Oh hi 👋
+
+```yaml
+apiVersion: v45
+kind: Human
+metadata:
+  name: Evgeny Subotin
+spec:
+  purpose: Help others with DevOps and Backend
+  sponsorship: not needed ATM :)
+  locations:
+    - 
+      type: physical
+      where: Israel.TelAviv
+
+  favorites:
+    number: 4️⃣5️⃣
+    emoji: 👨‍💻
+    food: 🍔
+    drink: 🥃🍹
+    sport: 🎿⛷️🚴🏾
+```
+
+
 <!--
 **evgenyidf/evgenyidf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
