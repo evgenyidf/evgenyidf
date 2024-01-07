@@ -1,12 +1,12 @@
 ## Oh hi 👋
 
 ```yaml
-apiVersion: v45
+apiVersion: v46
 kind: Human
 metadata:
   name: Evgeny Subotin
 spec:
-  purpose: Help others with DevOps and Backend
+  purpose: DevOps and Backend
   sponsorship: not needed ATM :)
   locations:
     - 
@@ -14,7 +14,7 @@ spec:
       where: Israel.TelAviv
 
   favorites:
-    number: 4️⃣5️⃣
+    number: 4️⃣6️⃣
     emoji: 👨‍💻
     food: 🍔
     drink: 🥃🍹
