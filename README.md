@@ -1,7 +1,7 @@
 ## Oh hi 👋
 
 ```yaml
-apiVersion: v46
+apiVersion: v47
 kind: Human
 metadata:
   name: Evgeny Subotin
@@ -14,7 +14,7 @@ spec:
       where: Israel.TelAviv
 
   favorites:
-    number: 4️⃣6️⃣
+    number: 4️⃣7️⃣
     emoji: 👨‍💻
     food: 🍔
     drink: 🥃🍹
