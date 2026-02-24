@@ -14,7 +14,7 @@ spec:
       where: Israel.TelAviv
 
   favorites:
-    number: 4️⃣7️⃣
+    number: 4️⃣8️⃣
     emoji: 👨‍💻
     food: 🍔
     drink: 🥃🍹
