@@ -1,7 +1,7 @@
 ## Oh hi 👋
 
 ```yaml
-apiVersion: v47
+apiVersion: v48
 kind: Human
 metadata:
   name: Evgeny Subotin
